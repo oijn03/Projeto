@@ -1,0 +1,126 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+h1, h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+h3, h4, h5, h6, h7{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px
+}
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+}
+
+.box1 {
+    width: 1330.300px;
+    text-align: center;
+    padding: 20px;
+}
+.box2 {
+    width: 1330.300px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding: 20px;
+}
+.container-2 {
+    display: flex;
+    width: 1330.300px;
+    justify-content: space-around;
+    padding: 20px;
+}
+.box3 {
+    flex:1;
+    padding: 3px;
+}
+.box4 {
+    flex: 1;
+    padding: 3px;
+}
+.box5 {
+    flex: 1;
+    padding: 3px;
+}
+.box6 {
+    width: 1330.300px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding: 20px;
+}
+.container-3 {
+    display: flex;
+    width: 1410.300px;
+    padding: 20px;
+} 
+.box7 {
+    flex: 1;
+}
+.box8 {
+    flex: 1;
+}
+.box9 {
+    width: 1330.300px;
+    text-align: center
+}
+
+.container-4 {
+    display: flex;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+}
+
+.fot {
+    font-size: 100px;
+}
+
+
+.button{
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+
+.container8 {
+    display: flex;
+    padding: 5px;
+    align-content: space-between;
+    font-size: 18pt;
+}
+.form1{
+    flex: 1;
+}
+.form2{
+    flex: 1;
+}
+
+.container10 {
+    background-color: rgb(236, 236, 236);
+}
+.box10, .box11 {
+    padding-block-end: 20px;
+    align-items: stretch;
+}
